@@ -1,0 +1,25 @@
+body{
+	border: 2px solid #bdc3c7;
+	padding: 20px;
+	margin: 20px auto;
+	font-family: Permanent Marker;
+	color: #c60b15;
+}
+
+table{
+	width: 100%;
+	height: 100px;
+}
+table tr,th,td{
+	border: solid red 2px;
+	
+}
+
+.container{
+
+	border: solid red 2px;
+	background:url(film1.png);
+	background-repeat:no-repeat;
+ 	background-size: 100%;
+ 	height: 900px;
+}

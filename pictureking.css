@@ -1,0 +1,42 @@
+body{
+/*	background: url(filmrollbackgroud2.jpg);
+	background-size:cover;
+  	background-position: center;*/
+  	font-family: Lato;
+  	color: white;
+  	/*background-repeat:no-repeat;
+  	background-size: 100%;*/
+
+  	
+}
+html{
+	height: 100%
+}
+
+.navbar-fixed-top{
+    height: 33%;
+    background: url(topfilm.png);
+    background-repeat:no-repeat;
+ 	background-size: 100%;
+ 	border: 0;
+}
+
+.navbar-fixed-bottom{
+    height: 33%;
+    background: url(bottomfilm.png);
+    background-repeat:no-repeat;
+ 	background-size: 100%;
+ 	border: 0;
+}
+
+.tbl{
+
+	padding-top: 25%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+.btn{
+	width:100%
+	background: url(film1.png);
+}
